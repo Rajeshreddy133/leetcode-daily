@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1408-string-matching-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1748-sum-of-unique-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1748-sum-of-unique-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
