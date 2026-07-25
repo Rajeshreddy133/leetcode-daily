@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
