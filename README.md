@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
 |  |
