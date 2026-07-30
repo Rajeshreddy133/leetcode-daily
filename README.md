@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 ## String Matching
 |  |
 | ------- |
