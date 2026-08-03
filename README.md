@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/2000-reverse-prefix-of-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1768-merge-strings-alternately](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String Matching
