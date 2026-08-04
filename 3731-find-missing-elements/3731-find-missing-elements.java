@@ -8,12 +8,8 @@ class Solution {
          int max=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
             hm.add(nums[i]);
-            if(nums[i]>max){
-                max=nums[i];
-            }
-            if(min>nums[i]){
-                min=nums[i];
-            }
+            min=Math.min(min,nums[i]);
+            max=Math.max(max,nums[i]);
         }
         for(int i=min;i<=max;i++){
             if(!hm.contains(i)){
