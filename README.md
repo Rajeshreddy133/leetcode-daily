@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0137-single-number-ii](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/2485-find-the-pivot-integer) |
