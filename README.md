@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1748-sum-of-unique-elements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/2000-reverse-prefix-of-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Quicksort
 |  |
 | ------- |
