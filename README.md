@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2974-minimum-number-game](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/Rajeshreddy133/https-github.com-Rajeshreddy133-leetcode-daily/tree/master/3731-find-missing-elements) |
